@@ -58,11 +58,3 @@ while converter_is_on:
         print("value")
     elif from_unit not in unit_indexes or to_unit not in unit_indexes:
         print("Invalid choice")
-
-
-
-
-
-    # Get input from the user
-
-    # Convert to desired unit
